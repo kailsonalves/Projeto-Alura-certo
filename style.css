@@ -35,3 +35,17 @@ grid-template-columns: 50% 50%;
     color: var(--branco-principal);
     display: block;
 }
+
+.container_botao {
+background-color: var(--botao-azul);
+border-radius: 5px;
+padding: 1em;
+color: var(--branco-principal);
+display: block;
+}
+
+.botao_secundario {
+background-color: transparent;
+border: 2px solid var(--branco-principal);
+}
+
